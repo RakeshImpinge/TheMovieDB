@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EADEA4201F57E8CF003C5D1F"
-               BuildableName = "The Movie.app"
-               BlueprintName = "The Movie"
-               ReferencedContainer = "container:The Movie.xcodeproj">
+               BlueprintIdentifier = "88E9EC28B8B46C3631E6B242B50F4442"
+               BuildableName = "Alamofire.framework"
+               BlueprintName = "Alamofire"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,36 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EADEA4341F57E8D0003C5D1F"
-               BuildableName = "The MovieTests.xctest"
-               BlueprintName = "The MovieTests"
-               ReferencedContainer = "container:The Movie.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EADEA43F1F57E8D0003C5D1F"
-               BuildableName = "The MovieUITests.xctest"
-               BlueprintName = "The MovieUITests"
-               ReferencedContainer = "container:The Movie.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EADEA4201F57E8CF003C5D1F"
-            BuildableName = "The Movie.app"
-            BlueprintName = "The Movie"
-            ReferencedContainer = "container:The Movie.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -71,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EADEA4201F57E8CF003C5D1F"
-            BuildableName = "The Movie.app"
-            BlueprintName = "The Movie"
-            ReferencedContainer = "container:The Movie.xcodeproj">
+            BlueprintIdentifier = "88E9EC28B8B46C3631E6B242B50F4442"
+            BuildableName = "Alamofire.framework"
+            BlueprintName = "Alamofire"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -90,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EADEA4201F57E8CF003C5D1F"
-            BuildableName = "The Movie.app"
-            BlueprintName = "The Movie"
-            ReferencedContainer = "container:The Movie.xcodeproj">
+            BlueprintIdentifier = "88E9EC28B8B46C3631E6B242B50F4442"
+            BuildableName = "Alamofire.framework"
+            BlueprintName = "Alamofire"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
